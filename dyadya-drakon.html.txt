@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#160b2b">
+<title>Дядя Дракон ❤️ По зову сердца</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(circle at top,#54205f,#160b2b 70%);color:#fff3fb;font-family:system-ui,-apple-system,sans-serif;text-align:center;min-height:100vh}
+main{max-width:520px;margin:auto;padding:22px 18px calc(25px + env(safe-area-inset-bottom))}
+h1{font-size:clamp(36px,10vw,55px);line-height:1;margin:22px 0;text-shadow:4px 4px #a51f63}
+h1 span{color:#ff559d}
+h2{font-size:29px}
+p{line-height:1.6;color:#f1dff8}
+.tag{color:#ffd76a;letter-spacing:3px;font-size:12px;font-weight:900}
+.hero{font-size:105px;margin:15px 0;animation:float 2s ease-in-out infinite;filter:drop-shadow(0 0 18px #ff559d)}
+.card{background:#ffffff10;border:2px solid #ffffff32;border-radius:20px;padding:18px;margin:16px 0;box-shadow:5px 6px #090511}
+button{font:inherit;font-weight:900;cursor:pointer;border:0;border-radius:14px;padding:15px;width:100%;margin:6px 0;background:#ff4e95;color:white;box-shadow:0 5px #a51f63}
+button:active{transform:translateY(3px);box-shadow:0 2px #a51f63}
+button.alt{background:#ffe0f0;color:#321238;box-shadow:0 5px #bb8cae}
+button.gold{background:#ffd76a;color:#28132e;box-shadow:0 5px #b77b28}
+.hidden{display:none!important}
+.field{height:310px;position:relative;o
